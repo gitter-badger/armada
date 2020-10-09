@@ -44,4 +44,4 @@ The Armada community's Code of Conduct is published here:
 
 We take the health of our community seriously.  We believe everyone should have a voice and feel welcome participating in the project.  If you feel that there is something amiss within the Armada community, we want to hear about it immediately.  The best way to connect with an admin is at:
 
-* [conduct@armadaproject.io](conduct@armadaproject.io)
+* [conduct@armadaproject.io](mailto:conduct@armadaproject.io)
